@@ -1,6 +1,6 @@
 # 🔍 GitHub User Finder
 
-![GitHub Finder](./img_github)
+![GitHub Finder](./img_gitthub.png)
 
 ## 📌 Présentation
 
