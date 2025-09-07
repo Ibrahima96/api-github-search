@@ -27,9 +27,9 @@ Elle offre une interface intuitive pour naviguer facilement dans les profils des
 
 ---
 
-## 📷 Aperçu
+## 📱 Aperçu
 
-![Demo App](./img_github)
+[Demo App](https://user-finger-github.netlify.app/)
 
 ---
 
@@ -37,4 +37,4 @@ Elle offre une interface intuitive pour naviguer facilement dans les profils des
 
 1. Clone le projet :  
    ```bash
-   git clone https://github.com/ton-compte/github-user-finder.git
+   git clone https://github.com/Ibrahima96/api-github-search.git
